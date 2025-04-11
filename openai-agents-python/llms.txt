@@ -1,0 +1,69 @@
+# https://openai.github.io/openai-agents-python llms.txt
+
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): Build agentic AI apps easily with OpenAI Agents SDK.
+- [OpenAI Agents Quickstart](https://openai.github.io/openai-agents-python/quickstart/): Quickly set up and run OpenAI agents in Python.
+- [Understanding OpenAI Agents](https://openai.github.io/openai-agents-python/agents/): Explore how to configure and use agents effectively.
+- [Guardrails for Agents](https://openai.github.io/openai-agents-python/guardrails/): Guardrails validate user input and output for agents.
+- [OpenAI Agents Tracing](https://openai.github.io/openai-agents-python/tracing/): Explore built-in tracing for OpenAI Agents SDK workflows.
+- [Running Agents Guide](https://openai.github.io/openai-agents-python/running_agents/): Learn how to run agents using the Runner class.
+- [Context Management Overview](https://openai.github.io/openai-agents-python/context/): Explore context management for local and LLM data usage.
+- [Agent Task Handoffs](https://openai.github.io/openai-agents-python/handoffs/): Learn how agents can delegate tasks through handoffs.
+- [OpenAI SDK Configuration](https://openai.github.io/openai-agents-python/config/): Guide to configuring the OpenAI SDK for API usage.
+- [OpenAI Agents Models](https://openai.github.io/openai-agents-python/models/): Explore OpenAI Agents SDK models for various tasks.
+- [Model Settings Overview](https://openai.github.io/openai-agents-python/ref/model_settings/): Settings for configuring LLM model parameters effectively.
+- [OpenAI Agents Lifecycle](https://openai.github.io/openai-agents-python/ref/lifecycle/): Lifecycle events and hooks for OpenAI agents management.
+- [OpenAI Chat Completions](https://openai.github.io/openai-agents-python/ref/models/openai_chatcompletions/): Explore the OpenAI Chat Completions model implementation details.
+- [Agent Workflow Runner](https://openai.github.io/openai-agents-python/ref/run/): Explore the Runner class for executing agent workflows.
+- [OpenAI Response Items](https://openai.github.io/openai-agents-python/ref/items/): Overview of OpenAI SDK response item types and usage.
+- [Run Context Overview](https://openai.github.io/openai-agents-python/ref/run_context/): Overview of RunContextWrapper for agent run management.
+- [OpenAI Agent Tools](https://openai.github.io/openai-agents-python/tools/): Explore various tools for agents in OpenAI's SDK.
+- [Python Function Schema](https://openai.github.io/openai-agents-python/ref/function_schema/): Captures Python function schema for LLM tool integration.
+- [Guardrails for Agents](https://openai.github.io/openai-agents-python/ref/guardrail/): Explore guardrails for agent input and output validation.
+- [Span Data Overview](https://openai.github.io/openai-agents-python/ref/tracing/span_data/): Detailed overview of span data in tracing.
+- [Processor Interface](https://openai.github.io/openai-agents-python/ref/tracing/processor_interface/): Interface for processing and exporting tracing spans.
+- [Agent Output Schema](https://openai.github.io/openai-agents-python/ref/agent_output/): Schema for validating and parsing agent output JSON data.
+- [OpenAI Model Interface](https://openai.github.io/openai-agents-python/ref/models/interface/): Explore the model interface for OpenAI agents in Python.
+- [OpenAI Agents Module](https://openai.github.io/openai-agents-python/ref/): Explore OpenAI agents module for API key and client setup.
+- [Handoff Prompt Guide](https://openai.github.io/openai-agents-python/ref/extensions/handoff_prompt/): Learn how to implement handoff prompts in agent systems.
+- [Agent Handoffs Guide](https://openai.github.io/openai-agents-python/ref/handoffs/): A guide on agent handoffs in Python programming.
+- [Agents SDK Exceptions](https://openai.github.io/openai-agents-python/ref/exceptions/): Overview of exceptions in the Agents SDK documentation.
+- [Tracing Setup Guide](https://openai.github.io/openai-agents-python/ref/tracing/setup/): Setup for SynchronousMultiTracingProcessor and TraceProvider.
+- [Tracing Module Overview](https://openai.github.io/openai-agents-python/ref/tracing/): Explore the Tracing module for processing spans in Python.
+- [Handoff Filters](https://openai.github.io/openai-agents-python/ref/extensions/handoff_filters/): Filters out all tool items from handoff input data.
+- [Tracing Processors Overview](https://openai.github.io/openai-agents-python/ref/tracing/processors/): Explore various tracing processors for exporting spans.
+- [OpenAI Agents Scope](https://openai.github.io/openai-agents-python/ref/tracing/scope/): Explore the scope of OpenAI agents in Python.
+- [OpenAI Agents Results](https://openai.github.io/openai-agents-python/results/): Explore results from OpenAI agents' run methods and outputs.
+- [OpenAI Tracing Overview](https://openai.github.io/openai-agents-python/ref/tracing/traces/): Explore tracing in OpenAI's Python agents library.
+- [Agent Streaming Guide](https://openai.github.io/openai-agents-python/streaming/): Learn how to stream updates from agent runs effectively.
+- [Streaming Events Overview](https://openai.github.io/openai-agents-python/ref/stream_events/): Overview of streaming events from OpenAI agents.
+- [Usage dataclass overview](https://openai.github.io/openai-agents-python/ref/usage/): Overview of Usage dataclass for tracking API requests.
+- [OpenAI Agents Results](https://openai.github.io/openai-agents-python/ref/result/): Overview of RunResultBase and its subclasses in OpenAI Agents.
+- [Orchestrating Multiple Agents](https://openai.github.io/openai-agents-python/multi_agent/): Learn to orchestrate multiple agents using LLMs and code.
+- [Span Class Overview](https://openai.github.io/openai-agents-python/ref/tracing/spans/): Explore the Span class and its implementations in tracing.
+- [OpenAI Agents Overview](https://openai.github.io/openai-agents-python/ref/agent/): Explore the structure and functionality of OpenAI agents.
+- [Python Agent Tools](https://openai.github.io/openai-agents-python/ref/tool/): Explore various tools for agent functionality in Python.
+- [Creating Traces and Spans](https://openai.github.io/openai-agents-python/ref/tracing/create/): Create and manage traces and spans for workflows.
+- [Tracing Utility Functions](https://openai.github.io/openai-agents-python/ref/tracing/util/): Functions for generating trace IDs and current time.
+- [OpenAI Responses Model](https://openai.github.io/openai-agents-python/ref/models/openai_responses/): Implementation of OpenAI Responses API for model interactions.
+- [404 Error Page](https://openai.github.io/openai-agents-python/https://example.com): Page not found error for requested URL.
+- [SDK Implementation Examples](https://openai.github.io/openai-agents-python/examples/): Explore various SDK implementation examples and patterns.
+- [STT Websocket Error](https://openai.github.io/openai-agents-python/ref/voice/exceptions/): Learn about STT websocket connection error exceptions.
+- [OpenAI Voice Model Provider](https://openai.github.io/openai-agents-python/ref/voice/models/openai_provider/): OpenAI voice model provider for speech-to-text and text-to-speech.
+- [Audio Input for VoicePipeline](https://openai.github.io/openai-agents-python/ref/voice/input/): Static and streamed audio input for VoicePipeline processing.
+- [Voice Pipeline Tracing](https://openai.github.io/openai-agents-python/voice/tracing/): Explore voice pipeline tracing configuration and options.
+- [VoicePipeline Audio Streaming](https://openai.github.io/openai-agents-python/ref/voice/result/): Stream audio data and events from VoicePipeline output.
+- [Voice Agent Quickstart](https://openai.github.io/openai-agents-python/voice/quickstart/): Quickly set up a voice agent using OpenAI's SDK.
+- [Text Chunking Utility](https://openai.github.io/openai-agents-python/ref/voice/utils/): Function to split text into chunks by sentences.
+- [Voice Agent Pipeline](https://openai.github.io/openai-agents-python/ref/voice/pipeline/): A voice agent pipeline for audio processing and response.
+- [VoicePipeline Configuration](https://openai.github.io/openai-agents-python/ref/voice/pipeline_config/): Configuration details for VoicePipeline in OpenAI agents.
+- [OpenAI TTS Model](https://openai.github.io/openai-agents-python/ref/voice/models/openai_tts/): OpenAI's text-to-speech model for audio generation.
+- [Voice Model Settings](https://openai.github.io/openai-agents-python/ref/voice/model/): Explore settings and models for text-to-speech and speech-to-text.
+- [Voice Workflow Overview](https://openai.github.io/openai-agents-python/ref/voice/workflow/): Explore voice workflows with agents and transcription handling.
+- [Voice App Pipelines](https://openai.github.io/openai-agents-python/voice/pipeline/): Easily create voice apps with agent workflows and pipelines.
+- [OpenAI Speech-to-Text](https://openai.github.io/openai-agents-python/ref/voice/models/openai_stt/): OpenAI's STT model for audio transcription sessions.
+- [VoiceStreamEvent Types](https://openai.github.io/openai-agents-python/ref/voice/events/): Overview of VoiceStreamEvent types in VoicePipeline.
+- [OpenAI Voice Agents](https://openai.github.io/openai-agents-python/voice/): Explore OpenAI's voice agent capabilities and examples.
+- [404 Not Found](https://openai.github.io/openai-agents-python/*): Page not found error for OpenAI Agents Python.
+- [MCP Util](https://openai.github.io/openai-agents-python/ref/mcp/util/): Utilities for MCP and Agents SDK tool interoperability.
+- [Model Context Protocol](https://openai.github.io/openai-agents-python/mcp/): Standardizes context provision for AI models and tools.
+- [MCP Servers Overview](https://openai.github.io/openai-agents-python/ref/mcp/server/): Base class for Model Context Protocol servers and implementations.

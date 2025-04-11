@@ -1,0 +1,33 @@
+#
+
+>
+
+## Components
+
+
+### 
+
+#### Installation
+
+```bash
+# Install with pnpm
+pnpm dlx shadcn@latest add "https://magicui.design/r/"
+```
+
+#### Usage
+
+```tsx
+
+```
+
+#### Props
+
+#### Examples
+
+**Example Title**
+
+```tsx
+
+```
+
+## Resources
