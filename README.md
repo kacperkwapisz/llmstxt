@@ -6,8 +6,8 @@
 
 ```bash
 # In Cursor or similar AI tools, use any of these:
-/docs https://llmstxt.kapi.dev/magicui/llms.txt        # UI Components
-/docs https://llmstxt.kapi.dev/openai-agents/llms.txt   # AI Agents
+/docs https://llmstxt.kapi.dev/magicui/llms.txt        # Magic UI
+/docs https://llmstxt.kapi.dev/openai-agents-python/llms.txt   # OpenAI Agents Python
 # ... and more libraries available at llmstxt.kapi.dev
 ```
 
